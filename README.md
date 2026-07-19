@@ -1,4 +1,5 @@
  📊 Super Store Sales Dashboard
+ 
 A dynamic and interactive Power BI dashboard designed to track, analyze, and visualize key sales performance metrics for a retail business, enabling data-driven decision-making across regions and customer segments.
 
 🎯 Project Purpose
