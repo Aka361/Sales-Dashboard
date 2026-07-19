@@ -115,3 +115,6 @@ East
 South
 West
 Business Use:Enables interactive analysis for specific geographical regions.
+
+
+Screenshot of Dashboard :https://github.com/Aka361/Sales-Dashboard/blob/main/Screenshot%202026-07-19%20230754.png
