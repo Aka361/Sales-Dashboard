@@ -3,19 +3,22 @@
 A dynamic and interactive Power BI dashboard designed to track, analyze, and visualize key sales performance metrics for a retail business, enabling data-driven decision-making across regions and customer segments.
 
 🎯 Project Purpose
+
 The primary objective of this dashboard is to provide comprehensive insights into retail sales data across different regions, customer segments, and time frames. It helps stakeholders:
 Monitor overall sales performance (Sales, Quantity, Profit, and Delivery efficiency).
 Analyze Year-over-Year (YoY) growth trends for sales and profitability.
 Understand consumer buying behavior based on payment modes, segments, and shipping categories.
 
  🛠️ Tech Stack
+ 
 The dashboard was built using the following tools and technologies:
-Power BI Desktop – Main data visualization platform used for report creation and canvas designing.
-Power Query – Data transformation and cleaning layer for reshaping and preparing the raw sales data.
-DAX (Data Analysis Expressions) – Used for calculating advanced metrics such as Year-over-Year (YoY) Sales, Average Delivery Days, and conditional formatting logic.
-Data Modeling – Star schema design establishing relationships between fact sales tables and dimension tables (Region, Time/Date, Product)
+1. Power BI Desktop – Main data visualization platform used for report creation and canvas designing.
+2. Power Query – Data transformation and cleaning layer for reshaping and preparing the raw sales data.
+3. DAX (Data Analysis Expressions) – Used for calculating advanced metrics such as Year-over-Year (YoY) Sales, Average Delivery Days, and conditional formatting logic.
+4. 4. Data Modeling – Star schema design establishing relationships between fact sales tables and dimension tables (Region, Time/Date, Product)
 
  📈 Key Metrics & Features Covered
+ 
 1. High-Level KPIs
 Sum of Sales: $2M total sales revenue.
 Sum of Quantity: 22K total items sold.
